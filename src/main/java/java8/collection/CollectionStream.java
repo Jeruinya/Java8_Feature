@@ -1,4 +1,4 @@
-package com.allstate.java8.collection;
+package java8.collection;
 
 import java.util.ArrayList;
 import java.util.List;
